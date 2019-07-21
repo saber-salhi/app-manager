@@ -1,0 +1,6 @@
+framework module Pods_proManagerTests {
+  umbrella header "Pods-proManagerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

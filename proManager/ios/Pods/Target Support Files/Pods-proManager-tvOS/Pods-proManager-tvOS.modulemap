@@ -1,0 +1,6 @@
+framework module Pods_proManager_tvOS {
+  umbrella header "Pods-proManager-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
